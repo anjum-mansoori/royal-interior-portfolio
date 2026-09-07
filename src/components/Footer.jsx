@@ -1,8 +1,9 @@
 function Footer() {
+    const currYear = new Date().getFullYear();
     return (
         <footer className="footer">
             <p>
-                © 2026 Royal Interior Designer. All Rights Reserved.
+                &copy; {currYear} Royal Interior Designer. All Rights Reserved.
             </p>
         </footer>
     );

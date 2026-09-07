@@ -266,7 +266,6 @@ function Gallery() {
                 {selectedImage && (
                     <div className="image-modal">
                         <div className="modal-content">
-
                             <button
                                 className="close-btn"
                                 onClick={() => setSelectedImage(null)}
@@ -278,7 +277,6 @@ function Gallery() {
                                 src={selectedImage.image}
                                 alt={selectedImage.title}
                             />
-
                         </div>
                     </div>
                 )}
