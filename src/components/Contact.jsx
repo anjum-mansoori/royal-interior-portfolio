@@ -18,14 +18,14 @@ function Contact() {
                         custom design solutions.
                     </p>
 
-                    <p>📞 +91 8668734462 </p>
-                    <p>✉️ kismatmansoori01@email.com</p>
+                    <p>📞 +91 9821041744 </p>
+                    <p>✉️ royalinteriordesigner03@gmail.com</p>
                     <p>📍 Mumbai, India</p>
                 </div>
 
                 <form
                     className="contact-form"
-                    action="https://formsubmit.co/kismatmansoori01@gmail.com"
+                    action="https://formsubmit.co/royalinteriordesigner03@gmail.com"
                     method="POST"
                 >
 
